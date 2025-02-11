@@ -1,7 +1,7 @@
 ## the Binding Coil of Bahamut - Turn 5	/ 大迷宮バハムート：邂逅編5 / 巴哈姆特大迷宫 邂逅之章5	
 
-``
-`~Lv2~{"Name":"巴哈姆特大迷宫","Group":"青魔 By南雲鉄虎","ZoneLockH":[245,358,196,383],"ElementsL":[{"Name":"T5 双塔尼亚-爆破俯冲","type":3,"offY":60.0,"radius":6.0,"color":4278255615,"fillIntensity":0.15,"thicc":2.5,"refActorNPCID":1482,"refActorRequireCast":true,"refActorCastId":[1247],"refActorComparisonType":4,"includeRotation":true,"refActorTetherTimeMin":0.0,"refActorTetherTimeMax":0.0,"mechanicType":1,"FillStep":5.0}]}
+```
+~Lv2~{"Name":"巴哈姆特大迷宫","Group":"青魔 By南雲鉄虎","ZoneLockH":[245,358,196,383],"ElementsL":[{"Name":"T5 双塔尼亚-爆破俯冲","type":3,"offY":60.0,"radius":6.0,"color":4278255615,"fillIntensity":0.15,"thicc":2.5,"refActorNPCID":1482,"refActorRequireCast":true,"refActorCastId":[1247],"refActorComparisonType":4,"includeRotation":true,"refActorTetherTimeMin":0.0,"refActorTetherTimeMax":0.0,"mechanicType":1,"FillStep":5.0}]}
 ```
 
 ## the Second Coil of Bahamut - Turn 4	/ 大迷宮バハムート：侵攻編4 / 巴哈姆特大迷宫 入侵之章4
