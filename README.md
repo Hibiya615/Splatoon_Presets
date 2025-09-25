@@ -12,4 +12,9 @@
 
 任何主动以收集整理、信息差、推销安装指导等名义进行收费**均为倒卖**。
 
+# 鸣谢 / Thanks for
+[Splatoon官方预设仓库](https://github.com/PunishXIV/Splatoon/tree/main/Presets)
+
+[光のツーラー ToolerOfLight](https://tooleroflight.blog.jp/)
+
 更新中……
