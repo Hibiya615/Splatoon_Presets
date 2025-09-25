@@ -15,6 +15,8 @@
 # 鸣谢 / Thanks for
 [Splatoon官方预设仓库](https://github.com/PunishXIV/Splatoon/tree/main/Presets)
 
-[光のツーラー ToolerOfLight](https://tooleroflight.blog.jp/)
+[光のツーラー Tooler Of Light](https://github.com/ToolerofLight)
+> [!NOTE]
+> Most of these presets are made by ToolerOfLight and translated to Chinese. [Visit this link for originals.](https://tooleroflight.blog.jp/)
 
 更新中……
