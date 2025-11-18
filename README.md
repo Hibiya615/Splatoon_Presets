@@ -19,4 +19,11 @@
 > [!NOTE]
 > Most of these presets are made by ToolerOfLight and translated to Chinese. [Visit this link for originals.](https://tooleroflight.blog.jp/)
 
+# 友情插件
+
+对于包含地形差的地图（如深层迷宫），我更推荐使用VFX绘制的可达鸭 Kodakku Assist插件。[【点此加入Discord】](https://discord.gg/9mNNnm3tKt)
+
+我个人的Kodakku绘制在线仓库 ```https://raw.githubusercontent.com/Hibiya615/TetoraKAScript/main/OnlineRepo.json```
+
+
 更新中……
