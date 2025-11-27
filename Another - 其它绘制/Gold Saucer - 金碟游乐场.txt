@@ -1,1 +1,0 @@
-~Lv2~{"Name":"金碟","Group":"其它功能 By南雲鉄虎","ZoneLockH":[144,832,137],"ElementsL":[{"Name":"小雏鸟的营救者-炸弹","type":1,"radius":2.0,"color":4278190335,"fillIntensity":0.205,"thicc":2.5,"refActorModelID":670,"refActorComparisonType":1,"includeRotation":true,"onlyVisible":true,"refActorTetherTimeMin":0.0,"refActorTetherTimeMax":0.0,"mechanicType":1}]}
