@@ -1,0 +1,5 @@
+# Decision Dot - 判定点
+
+```
+~Lv2~{"Name":"判定点","Group":"其它功能 By南雲鉄虎","DCond":1,"ElementsL":[{"Name":"真北","type":1,"radius":0.02,"Donut":0.05,"color":4278255615,"Filled":false,"fillIntensity":1.0,"overlayTextColor":3355508709,"overlayVOffset":0.3,"thicc":1.0,"refActorName":"*","refActorRequireBuff":true,"refActorBuffId":[1910,1250],"refActorType":1,"onlyTargetable":true,"onlyVisible":true,"refActorTetherTimeMin":0.0,"refActorTetherTimeMax":0.0,"mechanicType":6,"FillStep":10.0},{"Name":"自己判定点","type":1,"radius":0.0,"color":4288085760,"Filled":false,"fillIntensity":1.0,"thicc":3.0,"refActorName":"${_ffxivplayer}","refActorType":1,"refActorTetherTimeMin":0.0,"refActorTetherTimeMax":0.0,"mechanicType":6}]}
+```
