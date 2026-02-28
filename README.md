@@ -1,18 +1,36 @@
 # Splatoon_Presets
+
 使用Splatoon绘图插件进行的个人绘制存档，目前主要用于CN版。
 
-您可以点击此超链接加入我的Discord仓库以获取更多预设：[点击加入](https://discord.gg/cxaSgg79zu )
+`Personal drawing archive using the Splatoon plugin, currently mainly for the CN version.`
+
+
+您可以点击此超链接加入我的Discord仓库以获取更多预设：[点击加入](https://discord.gg/cxaSgg79zu)
+
+`You can click this hyperlink to join my Discord for more presets:` [Click here](https://discord.gg/cxaSgg79zu)
+
 
 并非完全原创，6.x及以后的高难机制大多有前人参考，仅做翻译与部分调整
 
+`Not completely original; most of the high-difficulty mechanics for 6.x and later versions reference previous work, with only translations and partial adjustments made.`
+
 ---
 
-# 请注意：
+# !Important 请注意：
+
 本仓库内容**完全免费**，请勿通过付费渠道获取或将其作为商用内容。
+
+`All content in this repository is completely free. Do not obtain it through paid channels or use it for commercial purposes.`
+
 
 任何主动以收集整理、信息差、推销安装指导等名义进行收费**均为倒卖**。
 
+`Any attempt to charge fees under the guise of collection, organization, information asymmetry, or installation guidance constitutes reselling.`
+
+
 若您是通过付费才知道本预设/仓库/频道的请**立即退款并差评**。
+
+`If you learned about this preset/repository/channel through paid means, please request a refund immediately and leave a negative review.`
 
 ---
 
@@ -28,15 +46,18 @@
 
 ---
 
-# 支持开发
+# Support Development / 支持开发
+
+> [!Note]
+> Donations are **gratuitous**, do not confer any special privileges, and do not guarantee any after-sales support or updates.
+>
+> 捐赠为**无偿性质**，没有任何的特殊权益，且不保证任何售后需求与更新
 
 [<img width="200" src="https://pic1.afdiancdn.com/static/img/welcome/button-sponsorme.png" alt="afdian">](https://afdian.com/a/catt918615)
 
-注：捐赠为**无偿性质**，没有任何的特殊权益，且不保证任何售后需求与更新
-
 ---
 
-# 友情链接
+# Friendship Links / 友情链接
 
 **RedAsteroid （小刺猬）的Github主页**
 
