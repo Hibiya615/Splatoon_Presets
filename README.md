@@ -5,12 +5,16 @@
 
 并非完全原创，6.x及以后的高难机制大多有前人参考，仅做翻译与部分调整
 
+---
+
 # 请注意：
 本仓库内容**完全免费**，请勿通过付费渠道获取或将其作为商用内容。
 
 任何主动以收集整理、信息差、推销安装指导等名义进行收费**均为倒卖**。
 
 若您是通过付费才知道本预设/仓库/频道的请**立即退款并差评**。
+
+---
 
 # 鸣谢 / Thanks for
 [Splatoon官方预设仓库](https://github.com/PunishXIV/Splatoon/tree/main/Presets)
@@ -22,13 +26,17 @@
 > [!Important]
 > Most of these presets were translated into English by Battler.
 
+---
+
+# 支持开发
+
+[<img width="200" src="https://pic1.afdiancdn.com/static/img/welcome/button-sponsorme.png" alt="afdian">](https://afdian.com/a/catt918615)
+
+注：捐赠为**无偿性质**，没有任何的特殊权益，且不保证任何售后需求与更新
+
+---
+
 # 友情链接
-
-**爱发电：**
-
-注：捐赠为**无偿性质**，并不保证任何售后需求与更新
-
-> https://afdian.com/a/catt918615
 
 **RedAsteroid （小刺猬）的Github主页**
 
