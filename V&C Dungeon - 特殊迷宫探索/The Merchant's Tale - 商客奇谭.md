@@ -16,11 +16,11 @@ Before updating, please **delete the old version group first**, then import this
 
 **7/3/2026:** 追加 `[异闻] 火仙女佩莉_四连炎舞・追火` 远近字幕提示 
 
-Add `[Another] Pari of Plenty_Fireflight: Four Long Nights` near/far Tips
+Add near/far tips for `[Another] Pari of Plenty_Fireflight: Four Long Nights`.
 
 **9/3/2026:** 尝试修复 `[异变] 火仙女佩莉_四连炎舞・追火` 中半场刀的遗漏绘制，更改了部分翻译
 
-Attempted to fix the missing half-room cleave drawing in `[ADV] Pari of Plenty_Fireflight: Four Long Nights`, Changed part of the translation.
+Attempted to fix the missing half-room cleave drawing in `[ADV] Pari of Plenty_Fireflight: Four Long Nights`. Also changed some translations.
 
 ---
 
