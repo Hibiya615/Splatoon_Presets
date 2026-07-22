@@ -1,4 +1,4 @@
-# Normal Trials （Only up to Patch 7.2
+# Normal Trials （Only up to Patch 7.35
 
 ---
 
